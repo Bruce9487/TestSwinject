@@ -2,7 +2,7 @@
 //  Parent.swift
 //  TestSwinject
 //
-//  Created by APP技術部-陳冠志 on 2022/9/5.
+//  Created by Bruce Chen on 2022/9/5.
 //
 
 import Foundation
